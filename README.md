@@ -3,3 +3,6 @@ El siguiente codigo se basa en desarrollar una red neuronal para el pronostico d
 https://github.com/ColasGael/Machine-Learning-for-Solar-Energy-Prediction
 
 En especifico, datos de producción diaria de energía del parque solar Urbana-Champaign y cobertura nubosa.
+
+
+red_20_over -> codigo donde se utiliza una red neuronal recurrente y una red LSTM. 
